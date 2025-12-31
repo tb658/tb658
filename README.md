@@ -1,6 +1,6 @@
-# I'm Tyler J. Barnes! Welcome to my GitHub page!
+# Hello!
 
-**Sophomore CS & Math Double Major @ Rutgers University**
+I'm Tyler, a sophomore computer science and mathematics student studying at Rutgers University-New Brunswick.
 
 Passionate about building efficient, impactful software with a focus on problem-solving and innovation.
 
