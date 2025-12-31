@@ -1,4 +1,33 @@
-## Hi there 👋
+# I'm Tyler J. Barnes! Welcome to my GitHub page!
+
+**Sophomore CS & Math Double Major @ Rutgers University**
+
+Passionate about building efficient, impactful software with a focus on problem-solving and innovation.
+
+- Currently working on Java-based DSA projects and exploring AI/ML applications.
+- Learning NumPy, scikit-learn, TensorFlow/PyTorch, and modern web frameworks.
+- Open to collaborating on software engineering, AI/ML, web development, or cybersecurity projects.
+- Ask me about Java, C++, Python, or DSA concepts.
+
+**Languages**: Java • C++ • Python • HTML/CSS • JavaScript  
+**Currently Learning**: NumPy, Pandas, ML frameworks, React/Node.js basics
+
+### Interests
+- Software Engineering
+- Artificial Intelligence & Machine Learning
+- Web Development
+- Cybersecurity
+
+### Connect with Me
+- 📫 Email: tylerjbarnes0726@gmail.com
+- 🔗 LinkedIn: [www.linkedin.com/in/tb658](www.linkedin.com/in/tb658)
+
+Thanks for visiting! 
+
+
+
+
+
 
 <!--
 **tb658/tb658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
