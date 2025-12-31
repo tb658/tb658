@@ -1,6 +1,6 @@
-# Hello!
+# Hi there 👋, I'm Tyler
 
-I'm Tyler, a sophomore computer science and mathematics student studying at Rutgers University-New Brunswick.
+**Sophomore CS & Math Double Major @ Rutgers University–New Brunswick**
 
 Passionate about building efficient, impactful software with a focus on problem-solving and innovation.
 
@@ -8,6 +8,8 @@ Passionate about building efficient, impactful software with a focus on problem-
 - Learning NumPy, scikit-learn, TensorFlow/PyTorch, and modern web frameworks.
 - Open to collaborating on software engineering, AI/ML, web development, or cybersecurity projects.
 - Ask me about Java, C++, Python, or DSA concepts.
+
+### Skills & Tools
 
 **Languages**: Java • C++ • Python • HTML/CSS • JavaScript  
 **Currently Learning**: NumPy, Pandas, ML frameworks, React/Node.js basics
@@ -20,14 +22,9 @@ Passionate about building efficient, impactful software with a focus on problem-
 
 ### Connect with Me
 - 📫 Email: tylerjbarnes0726@gmail.com
-- 🔗 LinkedIn: [www.linkedin.com/in/tb658](www.linkedin.com/in/tb658)
+- 🔗 LinkedIn: [linkedin.com/in/tb658](https://www.linkedin.com/in/tb658)
 
 Thanks for visiting! 
-
-
-
-
-
 
 <!--
 **tb658/tb658** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
